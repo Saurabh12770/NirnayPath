@@ -1,0 +1,165 @@
+{
+  "subject": "Police Science",
+  "count": 5,
+  "questions": [
+    {
+      "id": "PS-SSC-0001",
+      "subject": "Police Science",
+      "topic": "Forensic Science",
+      "difficulty": "medium",
+      "question_en": "Which technique is used to identify fingerprints?",
+      "question_hi": "फिंगरप्रिंट की पहचान के लिए किस तकनीक का उपयोग किया जाता है?",
+      "options_en": [
+        "Chromatography",
+        "Dactyloscopy",
+        "Spectroscopy",
+        "Microscopy"
+      ],
+      "options_hi": [
+        "क्रोमैटोग्राफी",
+        "डैक्टिलोस्कोपी",
+        "स्पेक्ट्रोस्कोपी",
+        "माइक्रोस्कोपी"
+      ],
+      "correctAnswer": 1,
+      "explanation_en": "Dactyloscopy is the science of fingerprint identification and classification.",
+      "explanation_hi": "डैक्टिलोस्कोपी फिंगरप्रिंट की पहचान और वर्गीकरण की विज्ञान है।",
+      "exam_tags": [
+        "SSC CGL",
+        "BPSC",
+        "State PCS",
+        "SSC CGL Tier 1",
+        "BPSC Prelims"
+      ],
+      "reference": "Standard Police Science textbooks for competitive exams"
+    },
+    {
+      "id": "PS-SSC-0002",
+      "subject": "Police Science",
+      "topic": "Investigation",
+      "difficulty": "easy",
+      "question_en": "What does FIR stand for in police terminology?",
+      "question_hi": "पुलिस शब्दावली में FIR का क्या अर्थ है?",
+      "options_en": [
+        "First Information Report",
+        "First Investigation Report",
+        "Final Information Record",
+        "Formal Investigation Report"
+      ],
+      "options_hi": [
+        "प्रथम सूचना रिपोर्ट",
+        "प्रथम जांच रिपोर्ट",
+        "अंतिम सूचना रिकॉर्ड",
+        "औपचारिक जांच रिपोर्ट"
+      ],
+      "correctAnswer": 0,
+      "explanation_en": "FIR stands for First Information Report, which is the first step in criminal investigation.",
+      "explanation_hi": "FIR का मतलब प्रथम सूचना रिपोर्ट है, जो आपराधिक जांच में पहला कदम है।",
+      "exam_tags": [
+        "SSC CGL",
+        "BPSC",
+        "State PCS",
+        "Railway NTPC",
+        "Group D"
+      ],
+      "reference": "Standard Police Science textbooks for competitive exams"
+    },
+    {
+      "id": "PS-SSC-0003",
+      "subject": "Police Science",
+      "topic": "Criminal Law",
+      "difficulty": "hard",
+      "question_en": "Which section of CrPC deals with arrest by private person?",
+      "question_hi": "दंड प्रक्रिया संहिता की कौन सी धारा निजी व्यक्ति द्वारा गिरफ्तारी से संबंधित है?",
+      "options_en": [
+        "Section 41",
+        "Section 43",
+        "Section 46",
+        "Section 49"
+      ],
+      "options_hi": [
+        "धारा 41",
+        "धारा 43",
+        "धारा 46",
+        "धारा 49"
+      ],
+      "correctAnswer": 1,
+      "explanation_en": "Section 43 of CrPC empowers any private person to arrest a person who commits a non-bailable and cognizable offence in his presence.",
+      "explanation_hi": "दंड प्रक्रिया संहिता की धारा 43 किसी भी निजी व्यक्ति को उस व्यक्ति को गिरफ्तार करने का अधिकार देती है जो उसकी उपस्थिति में गैर-जमानती और संज्ञेय अपराध करता है।",
+      "exam_tags": [
+        "SSC CGL",
+        "BPSC",
+        "State PCS",
+        "SSC CGL Tier 2",
+        "BPSC Mains",
+        "UPSC"
+      ],
+      "reference": "Standard Police Science textbooks for competitive exams"
+    },
+    {
+      "id": "PS-SSC-0004",
+      "subject": "Police Science",
+      "topic": "Traffic Rules",
+      "difficulty": "medium",
+      "question_en": "What is the maximum speed limit for cars in city areas as per Motor Vehicles Act?",
+      "question_hi": "मोटर वाहन अधिनियम के अनुसार शहरी क्षेत्रों में कारों की अधिकतम गति सीमा क्या है?",
+      "options_en": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "70 km/h"
+      ],
+      "options_hi": [
+        "40 किमी/घंटा",
+        "50 किमी/घंटा",
+        "60 किमी/घंटा",
+        "70 किमी/घंटा"
+      ],
+      "correctAnswer": 1,
+      "explanation_en": "As per Motor Vehicles Act, the maximum speed limit for cars in city areas is 50 km/h.",
+      "explanation_hi": "मोटर वाहन अधिनियम के अनुसार, शहरी क्षेत्रों में कारों की अधिकतम गति सीमा 50 किमी/घंटा है।",
+      "exam_tags": [
+        "SSC CGL",
+        "BPSC",
+        "State PCS",
+        "SSC CGL Tier 1",
+        "BPSC Prelims"
+      ],
+      "reference": "Standard Police Science textbooks for competitive exams"
+    },
+    {
+      "id": "PS-SSC-0005",
+      "subject": "Police Science",
+      "topic": "Police Organization",
+      "difficulty": "easy",
+      "question_en": "Who is the head of police in a district?",
+      "question_hi": "एक जिले में पुलिस प्रमुख कौन होता है?",
+      "options_en": [
+        "Superintendent of Police (SP)",
+        "Deputy Superintendent of Police (DSP)",
+        "Inspector General of Police (IGP)",
+        "Commissioner of Police"
+      ],
+      "options_hi": [
+        "पुलिस अधीक्षक (एसपी)",
+        "उप पुलिस अधीक्षक (डीएसपी)",
+        "पुलिस महानिरीक्षक (आईजीपी)",
+        "पुलिस आयुक्त"
+      ],
+      "correctAnswer": 0,
+      "explanation_en": "The Superintendent of Police (SP) is the head of police in a district.",
+      "explanation_hi": "पुलिस अधीक्षक (एसपी) एक जिले में पुलिस प्रमुख होता है।",
+      "exam_tags": [
+        "SSC CGL",
+        "BPSC",
+        "State PCS",
+        "Railway NTPC",
+        "Group D"
+      ],
+      "reference": "Standard Police Science textbooks for competitive exams"
+    }
+  ],
+  "exam_level": "SSC CGL / BPSC / State PCS",
+  "last_updated": "2026-04-12T15:24:49.571Z",
+  "upgrade_note": "Upgraded with 0 premium SSC CGL questions and enhanced 5 existing questions"
+}
